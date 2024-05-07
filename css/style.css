@@ -71,7 +71,7 @@ font-weight:300px;
     #search-form input type=submit{
     background-color:#3381f3;
     text-transform:UPPERCASE;
-    color:#fff;
+    color:#FFF;
     cursor:pointer;
     transition:0.5s;
 }
